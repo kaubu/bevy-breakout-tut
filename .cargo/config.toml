@@ -1,0 +1,3 @@
+# [profile.release.build-override]
+[build]
+rustflags = ["-C", "target-cpu=native"]
